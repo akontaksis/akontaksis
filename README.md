@@ -2,6 +2,8 @@
 
 Web Developer building practical, real-world solutions across WordPress/WooCommerce, headless architectures, and system integrations.
 
+🌐 **Portfolio:** [akontaksis.github.io](https://akontaksis.github.io)
+
 ## 🛠️ What I Work With
 
 **Web Development**
@@ -35,5 +37,6 @@ Web Developer building practical, real-world solutions across WordPress/WooComme
 
 ## 📫 Get in Touch
 
+- **Website:** [akontaksis.github.io](https://akontaksis.github.io)
 - **LinkedIn:** [Thanasis Kontaksis](https://www.linkedin.com/in/thanasis-kontaksis-3b58562b4/)
 - **Email:** akontaksis@gmail.com
